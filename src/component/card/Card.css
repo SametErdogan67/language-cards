@@ -1,0 +1,19 @@
+.image {
+  width: 50%;
+  margin: 20px;
+}
+.container {
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.ul {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.desc {
+  padding: 20px;
+}
